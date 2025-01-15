@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.autocomplete-suggestions {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .autocomplete-suggestions li {
+    border-bottom: 1px solid #ddd;
+  }
+  
+  
