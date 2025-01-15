@@ -1,8 +1,9 @@
-# React + Vite
+Airport Finder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Buscador de aeropuertos con sistema de autocompletado e historial de busquedas recientes
 
-Currently, two official plugins are available:
+Pasos de instalación y ejecución
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1: clonar el proyecto con el comando "git clone (url del repositorio)".
+2: Realizar las instalaciones del proyecto, ejecuta el comando: "npm install".
+3: Inicializar el proyecto, ejecuta el comando: "npm run dev".
